@@ -61,8 +61,4 @@ This plot represents the improvement in best accuracy over 100 iterations for th
 
 ---
 
-## 📎 GitHub Link
 
-👉 [GitHub Repository](https://github.com/khwaishagarwal/Parameter-Optimization-of-SVM)
-
----
